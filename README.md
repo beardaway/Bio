@@ -1,7 +1,7 @@
 ![](/Assets/coverPhoto.png)
 
 <p align="center">
-<b> Konrad Sopala </b><br>
+<b> Konrad Sopala #AvailableForHire</b><br>
 🤓 Developer advocate hacking devrel<br>
 🚩 Github Campus Expert<br>
 👨‍🚀 AngelHack Regional Community Manager<br>
