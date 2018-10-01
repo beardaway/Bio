@@ -2,18 +2,18 @@
 
 <p align="center">
 <b> Konrad Sopala </b><br>
-🤓 Developer advocate hacking devrel<br>
-🚩 Github Campus Expert<br>
-👨‍🚀 AngelHack Regional Community Manager<br>
-👨‍💻 Swift, Python, Objective-C<br>
-🔧 Hackathons, Developer experience/relations/marketing<br>
+🤓 Advocating for developers' needs <br>
+🧙🏻‍♂️ [Devrel Space Co-Founder](https://github.com/DevrelSpace) <br>
+🥑 [Auth0 Community  Engineer](https://auth0.com/) <br>
+🚩 [Github Campus Expert](https://education.github.com/students/experts) <br>
+👨‍🚀 [AngelHack Regional Community Manager](https://angelhack.com/) <br>
+👨‍💻 Swift, Python, Objective-C, JavaScript <br>
+🔧 Hackathons, Developer Experience, Developer Relations, Developer Advocacy <br>
 </p>
-
 
 # Bio 👋
 
-Hi! I'm Konrad and I'm a developer advocate currently available for hire. I love writing software in Swift and doing data analysis in Python, but what I enjoy even more is making use of my software engineering and community managements skills to make developers' world more effective and enjoyable. Always willing to do some hard work and talk about developer experience/relations/marketing.
-
+Hi! I'm Konrad and I'm a developer advocate currently working as a community engineer at Auth0. I love writing software in Swift and JavaScript but also doing data stuff in Python. What I enjoy even more is making use of my software engineering and community management skills to make developers' world more effective and enjoyable. Always willing to do some hard work and talk about developer experience/relations/advocacy.
 
 # Social Media Channels 🤜🤛
 
@@ -25,7 +25,6 @@ Hi! I'm Konrad and I'm a developer advocate currently available for hire. I love
 - 👨🏽‍🎓 Linkedin  [Konrad Sopala](https://www.linkedin.com/in/konrad-sopala-b4aa00101/)
 - 📋 Resume  [Resume](KonradSopalaResume.pdf)
 - 📃 CV [CV](KonradSopalaCV.pdf)
-
 
 # Hackathons and Confs 👨‍💻
 
@@ -39,7 +38,6 @@ List of hackathons I attended, organized or volunteered in and conferences I gav
 | Wawcode                           2017| Hacker    | **Won 3rd place in general contest + 1st place in Bosch Smart City Challenge** with an iOS app based on sharing economy for electric car owners. The main aim of the app was to provide users with a map of electric chargers along with navigation to those points. What is more, users were given a possibility to share their charging stations with each other so as to earn money. The app also offered in-app payment, smart travel planning, statistics and charts regarding users' charging times and previous travels characteristics | http://www.wawcode.pl/                                              |
 | SFI (IT Student Festival)        2017| Speaker   | **Presented a case-study of organizing the biggest student hackathon in Poland - AGHacks**. Covered topics such as: how to get funds for such hackathons, how to convince sponsors if you are a noname in hackathon field, what about logistics and anything that you should care about. Talk attended by around 100 people                                                                                                                                                                                                                    | https://www.youtube.com/watch?v=NFUL-Z36U04|
 | AngelHack Global Hackathon Series 2018| Organizer | 60 people hackathon aiming at blockchain and social solutions held at Hubraum Incubator in Cracow. Part of the AngelHack Global Series                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | https://angelhack.com/global-hackathon-series/ |
-
 
 # Writing ✏️
 
