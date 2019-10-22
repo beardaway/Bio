@@ -2,10 +2,7 @@
 
 <p align="center">
 <b> Konrad Sopala </b> <br>
-💻 Devrel Space Co-Founder <br>
 🥑 Auth0 Developer Community  Engineer <br>
-🚩 GitHub Campus Expert Alumni <br>
-👨‍🚀 Former AngelHack Regional Community Manager <br>
 👨‍💻 Swift, Python <br>
 🔧 Developer Communities, Hackathons, Developer Experience, Developer Relations, Developer Advocacy <br>
 </p>
@@ -23,6 +20,10 @@ Hi! I'm Konrad and I'm a developer advocate currently working as a developer com
 - 👨🏽‍🎓 Linkedin  [Konrad Sopala](https://www.linkedin.com/in/konrad-sopala-b4aa00101/)
 - 📋 Resume  [Resume](KonradSopalaResume.pdf)
 - 📃 CV [CV](KonradSopalaCV.pdf)
+
+# Jobs History 🧓
+
+# Skills 🙅‍♂️
 
 # Hackathons and Confs 👨‍💻
 
