@@ -22,6 +22,8 @@ Hi! I'm Konrad and I'm a developer advocate currently working as a developer com
 
 # Jobs History 🧓
 
+# Voluntary 🙋‍♂️
+
 # Skills 🙅‍♂️
 
 # Hackathons and Confs 👨‍💻
