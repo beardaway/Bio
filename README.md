@@ -17,8 +17,6 @@ Hi! I'm Konrad and I'm a developer advocate currently working as a developer com
 - 📧 Email  konrad.sopala@gmail.com
 - 🐙 GitHub  [beardaway](https://github.com/beardaway)
 - 👨🏽‍🎓 Linkedin  [Konrad Sopala](https://www.linkedin.com/in/konrad-sopala-b4aa00101/)
-- 📋 Resume  [Resume](KonradSopalaResume.pdf)
-- 📃 CV [CV](KonradSopalaCV.pdf)
 
 # Jobs History 🧓
 
