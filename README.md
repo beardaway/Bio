@@ -47,6 +47,15 @@ Hi! I'm Konrad and I'm a developer advocate currently working as a developer com
     
 # Skills 🙅‍♂️
 
+|              Field              | Skills                                                                                                                  |
+|:-------------------------------:|-------------------------------------------------------------------------------------------------------------------------|
+| Programming                     | Python, Swift, SQL, PostgreSQL, Docker                                                                                  |
+| Data Science & Machine Learning | Numpy, Pandas, Scikit-Learn, Matplotlib, Google BigQuery                                                                |
+| Business Inteligence            | Microsoft PowerBI, Tableau, Microsoft Excel                                                                             |
+| Developer Relations             | Developer Ecosystem Analysis, Organising hackathons, Developer Advocacy, Community Management                           |
+| Maths & Statistics              | Linear Algebra, Descriptive and Economic Statistics, Econometrics, Statistical Data Analysis, Graph Theory, Probability |
+| Soft Skills                     | Leadership, Public Speaking, Fundraising                                                                                |
+
 # Hackathons and Confs 👨‍💻
 
 List of hackathons I attended, organized or volunteered in and conferences I gave presentations at.
