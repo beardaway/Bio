@@ -39,11 +39,11 @@ Hi! I'm Konrad and I'm a developer advocate currently working as a developer com
 
 * **Master's Degree: Computer Science and Econometrics (2017 - 2019)**
     * AGH University of Science and Technology
-    * Thesis: Implementation project of an application for pattern recognition in medical data using iOS and watchOS
+    * **Thesis**: Implementation project of an application for pattern recognition in medical data using iOS and watchOS
     
 * **Bachelor's Degree: Computer Science and Econometrics (2014 - 2017)**
     * AGH University of Science and Technology
-    * Thesis: Data Science using Python
+    * **Thesis**: Data Science using Python
     
 # Skills 🙅‍♂️
 
