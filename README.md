@@ -81,7 +81,7 @@ List of hackathons I attended, organized or volunteered in and conferences I gav
 * [Running effective IT society at your university](https://github.com/beardaway/Bio/blob/master/Presentations/GitHubCampusExpertsPresentation.pdf) 🇺🇸<br>
 * [Running big hackathons essentials](https://github.com/beardaway/Bio/blob/master/Presentations/RunningBigHackathons.pdf) 🇺🇸<br>
 
-# Online Courses Taken 📚
+# Courses certificates 👨‍🏫
 
 * [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/docker-and-kubernetes-the-complete-guide/) <br>
 * [Blockchain and Bitcoin Fundamentals](https://www.udemy.com/blockchain-and-bitcoin-fundamentals/) <br>
