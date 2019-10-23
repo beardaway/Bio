@@ -23,7 +23,7 @@ Hi! I'm Konrad and I'm a developer advocate currently working as a developer com
 # Voluntary 🙋‍♂️
 
 * [DevrelSpace Co-Founder](https://github.com/DevrelSpace) (August 2018 - currently) <br>
-* [GitHub Campus Expert)(https://education.github.com/students/experts) (June 2018 - June 2019) <br>
+* [GitHub Campus Expert](https://education.github.com/students/experts) (June 2018 - June 2019) <br>
 * [AngelHack Regional Community Manager](https://angelhack.com/ambassadors/) (January 2018 - February 2019) <br>
 * [AGHacks Core Organizer](https://pl-pl.facebook.com/AGHacks) (November 2014 - January 2018) <br>
 * [MLH Local Hack Day Organizer](https://localhackday.mlh.io/) (December 2017) <br>
