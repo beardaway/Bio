@@ -12,17 +12,17 @@ Hi! I'm Konrad and I'm a developer advocate currently working as a developer com
 
 # Social Media Channels 🤜🤛
 
-* 🐤 Twitter  [@beardaway](https://twitter.com/beardaway?lang=pl)
-* 🤦 Facebook  [Konrad Sopala](https://www.facebook.com/beardaway)
+* 🐤 Twitter  [@beardaway](https://twitter.com/beardaway)
 * 📧 Email  konrad.sopala@gmail.com
 * 🐙 GitHub  [beardaway](https://github.com/beardaway)
 * 👨🏽‍🎓 Linkedin  [Konrad Sopala](https://www.linkedin.com/in/konrad-sopala-b4aa00101/)
+* 👋 about.me [konrad.sopala](https://about.me/konradsopala)
 
 # Jobs History 🧓
 
 * [Auth0: Developer Community Engineer](https://auth0.com/) (October 2018 - now) <br>
 * [Estimote: iOS Software Engineer](https://estimote.com/) (May 2017 - May 2018) <br>
-* [Woolet: Sales Data Analyst](https://woolet.co/) (November 2015 - May 2017) <br>
+* [Woolet: Sales Data BI Developer](https://woolet.co/) (November 2015 - May 2017) <br>
 * [Sher.ly: Customer Data Analyst](https://www.crunchbase.com/organization/sher-ly) (August 2015 - October 2015) <br>
 
 # Voluntary 🙋‍♂️
