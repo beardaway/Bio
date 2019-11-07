@@ -86,7 +86,7 @@ List of hackathons I attended, organized or volunteered in and conferences I gav
 * [Engaging with developer communities](https://github.com/beardaway/Bio/blob/master/Presentations/EngagingWithDeveloperCommunity.pdf) 🇺🇸<br>
 * [Running effective IT society at your university](https://github.com/beardaway/Bio/blob/master/Presentations/GitHubCampusExpertsPresentation.pdf) 🇺🇸<br>
 * [Running big hackathons essentials](https://github.com/beardaway/Bio/blob/master/Presentations/RunningBigHackathons.pdf) 🇺🇸<br>
-
+* [Meetings essential: How to respect each others' time](https://github.com/beardaway/github-linkedin/blob/master/Presentations/MeetingsEssentials.pdf) 🇺🇸<br>
 
 <p align="center">
 <b> Let's meet at some hackathon, conference, meetup or chat online! </b> <br>
