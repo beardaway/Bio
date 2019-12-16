@@ -10,13 +10,14 @@
 
 Hi! I'm Konrad and I'm a developer advocate currently working as a developer community engineer at Auth0. I love writing software in Swift and Python but also doing data stuff in the latter one. What I enjoy even more is making use of my software engineering and community management skills to make developers' world more effective and enjoyable. Always willing to do some hard work and talk about developer experience/relations/advocacy.
 
-# Social Media Channels 🤜🤛
+# Profiles for career life 🤜🤛
 
 * 🐤 Twitter  [@beardaway](https://twitter.com/beardaway)
 * 📧 Email  konrad.sopala@gmail.com
 * 🐙 GitHub  [beardaway](https://github.com/beardaway)
 * 👨🏽‍🎓 Linkedin  [Konrad Sopala](https://www.linkedin.com/in/konrad-sopala-b4aa00101/)
 * 👋 about.me [konrad.sopala](https://about.me/konradsopala)
+* 💪🏼 Gallup [Strengths](https://github.com/beardaway/github-linkedin/blob/master/GallupInstitute/CliftonStrengthsFinder.md)
 
 # Jobs History 🧓
 
