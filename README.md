@@ -8,7 +8,7 @@
 
 # Bio 👋
 
-Hi! I'm Konrad and I'm a developer advocate currently working as a developer community engineer at Auth0. I love writing software in Swift and Python but also doing data stuff in the latter one. What I enjoy even more is making use of my software engineering and community management skills to make developers' world more effective and enjoyable. Always willing to do some hard work and talk about developer experience/relations/advocacy.
+Hi! I'm Konrad and I'm a developer ecosystem engineer currently working as a developer community engineer at Auth0. I love writing software in Swift and Python but also doing data stuff in the latter one. Passionate about anything developer ecosystems, data science and business & startups. Always willing to do some hard work and talk about developer ecosystems, startups and product management.
 
 # Profiles for career life 🤜🤛
 
