@@ -84,6 +84,7 @@ List of hackathons I attended, organized or volunteered in and conferences I gav
 
 # Presentations 🎤
 
+* [Observable and Actionable Analytics](https://github.com/beardaway/github-linkedin/blob/master/Presentations/ObservableAndActionableAnalytics.pdf) 🇺🇸<br>
 * [FAQathons: your new tool for community forum enhancement](https://github.com/beardaway/github-linkedin/blob/master/Presentations/FAQathons.pdf) 🇺🇸<br>
 * [Running 500 people hackathon - AGHacks case study](https://github.com/beardaway/Bio/blob/master/Presentations/Running500peoplehackathon.pdf) 🇺🇸<br>
 * [Random Thoughts For Developer Product Managers](https://github.com/beardaway/Bio/blob/master/Presentations/RandomThoughtsForDeveloperProductManagers.pdf) 🇺🇸<br>
