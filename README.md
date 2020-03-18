@@ -3,40 +3,34 @@
 <p align="center">
 <b> Konrad Sopala </b> <br>
 🥑 Auth0 Developer Community  Engineer <br>
-🔧 Developer Ecosystem, Data Science, Business & Startups <br>
+🔧 Developer Ecosystems, Data Science, Research, iOS Development <br>
 </p>
 
 # Bio 👋
 
-Hi! I'm Konrad and I'm a developer ecosystem engineer currently working as a developer community engineer at Auth0. I love writing software in Swift and Python but also doing data stuff in the latter one. Passionate about anything developer ecosystems, data science and business & startups. Always willing to do some hard work and talk about developer ecosystems, startups and product management.
+Hi! I'm Konrad and I'm a developer ecosystem engineer currently working as a developer community engineer at Auth0. I love writing software in Swift and Python but also doing data stuff in the latter one. Passionate about anything developer ecosystems, data science, research and iOS Development. Always willing to do engage in projects bringing positive value!
 
-# Profiles for career life 🤜🤛
+# Social 🤜🤛
 
 * 🐤 Twitter  [@beardaway](https://twitter.com/beardaway)
 * 📧 Email  konrad.sopala@gmail.com
 * 🐙 GitHub  [beardaway](https://github.com/beardaway)
 * 👨🏽‍🎓 Linkedin  [Konrad Sopala](https://www.linkedin.com/in/konrad-sopala-b4aa00101/)
-* 👋 about.me [konrad.sopala](https://about.me/konradsopala)
 * 💪🏼 Gallup [Strengths](https://github.com/beardaway/github-linkedin/blob/master/GallupInstitute/CliftonStrengthsFinder.md)
 
 # Jobs History 🧓
 
 * [Auth0: Developer Community Engineer](https://auth0.com/) (October 2018 - now) <br>
-* [Estimote: Sales Engineer](https://estimote.com/) (December 2017 - May 2018) <br>
-* [Estimote: iOS Software Engineer](https://estimote.com/) (May 2017 - December 2017) <br>
-* [Woolet: Sales Data Analyst](https://woolet.co/) (November 2015 - May 2017) <br>
-* [AGHacks: Project Manager](https://mu.linkedin.com/company/aghacks) (November 2014 - December 2015) <br>
-* [Sher.ly: Customer Success Manager](https://www.crunchbase.com/organization/sher-ly) (August 2015 - October 2015) <br>
+* [Devrel Space: Head of Developer Research](https://twitter.com/devrelspace) (August 2018 - now) <br>
+* [GitHub: Developer Campus Expert](https://education.github.com/students/experts) (June 2018 - June 2019( <br>
+* [AngelHack: Developer Community Manager](https://angelhack.com/) (January 2018 - July 2018) <br>
+* [Estimote: iOS Software Engineer](https://estimote.com/) (May 2017 - May 2018) <br>
+* [AGHacks: Developer Advocate](https://pl-pl.facebook.com/AGHacks) (November 2014 - December 2015) <br>
 
 # Voluntary 🙋‍♂️
 
-* [DevrelSpace Co-Founder](https://github.com/DevrelSpace) (August 2018 - now) <br>
-* [GitHub Campus Expert](https://education.github.com/students/experts) (June 2018 - June 2019) <br>
-* [AngelHack Regional Community Manager](https://angelhack.com/ambassadors/) (January 2018 - February 2019) <br>
-* [AGHacks Core Organizer](https://pl-pl.facebook.com/AGHacks) (November 2014 - January 2018) <br>
+* [AGHacks Core Organizer](https://pl-pl.facebook.com/AGHacks) (November 2014 - December 2015) <br>
 * [MLH Local Hack Day Organizer](https://localhackday.mlh.io/) (December 2017) <br>
-* [TEDx Badge Team Coordinator](https://www.ted.com/) (June 2015) <br>
-* [TEDx Volunteer](https://www.ted.com/) (April 2015 - May 2015) <br>
 
 # Education 📚
 
@@ -54,11 +48,8 @@ Hi! I'm Konrad and I'm a developer ecosystem engineer currently working as a dev
 |:--------------------:|----------------------------------------------------------------------------------------|
 |      Programming     | Python, Swift, SQL, PostgreSQL, Docker, Git                                            |
 |     Data Science     | Numpy, Pandas, Scikit-Learn, Matplotlib, Google BigQuery                               |
-| Business Inteligence | Microsoft PowerBI, Tableau, Microsoft Excel                                            |
-|  Developer Ecosystem | Developer Ecosystem Creation and Analysis, Organising hackathons, Community Management |
-|        Product       | Project Management, JIRA, Confluence, Prioritisation, Products Backlogs                |
-| Business & Startups  | BMC, VPC, Business Models, Financing, Fundraising                                      |
-|      Soft Skills     | Leadership, Public Speaking                                                            |
+| Business Inteligence | Microsoft PowerBI, Microsoft Excel                                                     |
+|  Developer Relations | Developer Ecosystem Creation and Analysis, Organising hackathons, Community Engineering|
 
 # Hackathons and Conferences 👨‍💻
 
@@ -75,12 +66,28 @@ List of hackathons I attended, organized or volunteered in and conferences I gav
 
 # Courses 👨‍🏫
 
-| Platform     | Courses                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Certificates                                                                                               |
-|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| **edX**      | [Business Foundations](https://www.edx.org/course/business-foundations) <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | [edX Certificates](https://github.com/beardaway/github-linkedin/tree/master/Certificates/edX) 🔎            |
-| **Coursera** | [Managing Data Analysis](coursera.org/learn/managing-data-analysis?) <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | [Coursera Certificates](https://github.com/beardaway/github-linkedin/tree/master/Certificates/Coursera)  🔎 |
-| **Udacity**  | [Writing READMEs](udacity.com/course/writing-readmes--ud777)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | [Udacity Certificates](https://github.com/beardaway/github-linkedin/tree/master/Certificates)  🔎           |
-| **Udemy**    | [Product Marketing Management](https://www.udemy.com/course/product-marketing-for-technology-companies/)<br><br>[How to Write a Successful Research Paper](udemy.com/course/how-to-write-a-successful-research-paper-academic-writing/) <br><br>[The Complete Python & PostgreSQL Developer Course](udemy.com/course/the-complete-python-postgresql-developer-course/) <br><br>[The Complete iOS 10 & Swift 3 Developer Course](udemy.com/course/complete-ios-10-developer-course/)<br><br> [Objective-C Crash Course for Swift Developers](udemy.com/course/objectivec/) <br><br>[Docker and Kubernetes: The Complete Guide](udemy.com/course/docker-and-kubernetes-the-complete-guide/)<br><br> [Blockchain and Bitcoin Fundamentals](udemy.com/course/blockchain-and-bitcoin-fundamentals/) <br><br>[The Complete Salesforce Administrator Certification](udemy.com/course/salesforce-administrator/)<br><br> [The Complete Guide to Jira](udemy.com/course/the-complete-guide-to-jira-with-real-world-examples/) <br><br>[Mastering Agile Scrum Project Management](udemy.com/course/mastering-agile-scrum-project-management-pmi-rep/) <br><br>[User Experience Design Fundamentals](udemy.com/course/user-experience-design-fundamentals/)<br><br> [Mobile App Design in Sketch](udemy.com/course/the-complete-design-course/) <br><br> [Ultimate Google Analytics Guide](https://www.udemy.com/course/ultimate-google-analytics-course-50-practical-tips/) | <br><br> [Udemy Certificates](https://github.com/beardaway/github-linkedin/tree/master/Certificates/Udemy)  🔎       |
+Here's a list of courses I've taken. All the certificates can be viewed [here](https://github.com/beardaway/github-linkedin/tree/master/Certificates).
+
+* **Udemy**
+    * [Product Marketing Management](https://www.udemy.com/course/product-marketing-for-technology-companies/)
+    * [How to Write a Successful Research Paper](udemy.com/course/how-to-write-a-successful-research-paper-academic-writing/)
+    * [The Complete Python & PostgreSQL Developer Course](udemy.com/course/the-complete-python-postgresql-developer-course/)
+    * [The Complete iOS 10 & Swift 3 Developer Course](udemy.com/course/complete-ios-10-developer-course/)
+    * [Objective-C Crash Course for Swift Developers](udemy.com/course/objectivec/)
+    * [Docker and Kubernetes: The Complete Guide](udemy.com/course/docker-and-kubernetes-the-complete-guide/)
+    * [Blockchain and Bitcoin Fundamentals](udemy.com/course/blockchain-and-bitcoin-fundamentals/)
+    * [The Complete Salesforce Administrator Certification](udemy.com/course/salesforce-administrator/)
+    * [The Complete Guide to Jira](udemy.com/course/the-complete-guide-to-jira-with-real-world-examples/)
+    * [Mastering Agile Scrum Project Management](udemy.com/course/mastering-agile-scrum-project-management-pmi-rep/)
+    * [User Experience Design Fundamentals](udemy.com/course/user-experience-design-fundamentals/)
+    * [Mobile App Design in Sketch](udemy.com/course/the-complete-design-course/)
+    * [Ultimate Google Analytics Guide](https://www.udemy.com/course/ultimate-google-analytics-course-50-practical-tips/)
+    
+* **Udacity**
+    * [Writing READMEs](udacity.com/course/writing-readmes--ud777)
+    
+* **Coursera**
+    * [Managing Data Analysis](coursera.org/learn/managing-data-analysis?)
 
 # Presentations 🎤
 
