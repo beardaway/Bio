@@ -3,12 +3,12 @@
 <p align="center">
 <b> Konrad Sopala </b> <br>
 🥑 Auth0 Developer Community  Engineer <br>
-🔧 Developer Ecosystems, iOS Development, Product Engineering, iOS Research <br>
+🔧 Developer Ecosystems, iOS Development, Product Engineering, Data & Research <br>
 </p>
 
 # Bio 👋
 
-Hi! I'm Konrad and I'm a developer ecosystem engineer currently working as a developer community engineer at Auth0. I love writing software in Swift and Python but also doing data stuff in the latter one. Passionate about anything developer ecosystems, iOS development, product engineering and research. Always willing to do engage in projects bringing positive value!
+Hi! I'm Konrad and I'm a developer ecosystem engineer currently working as a developer community engineer at Auth0. I ENJOY writing software in Swift, JavaScript and Python but also doing data stuff in the last one. Passionate about anything developer ecosystems, iOS development, product engineering and research. Always willing to do engage in projects bringing positive value!
 
 # Social 🤜🤛
 
