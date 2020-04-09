@@ -47,8 +47,7 @@ Hi! I'm Konrad and I'm a developer ecosystem engineer currently working as a dev
 |         Field        | Skills                                                                                 |
 |:--------------------:|----------------------------------------------------------------------------------------|
 |      Programming     | Python, Swift, SQL, PostgreSQL, Git                                                    |
-|     Data Science     | Numpy, Pandas, Scikit-Learn, Matplotlib, Google BigQuery                               |
-| Business Inteligence | Microsoft PowerBI, Microsoft Excel                                                     |
+|     Data Science     | Numpy, Pandas, Seaborn, Matplotlib, Google BigQuery                                    |
 |  Developer Relations | Developer Ecosystem Creation and Analysis, Organising hackathons, Community Engineering|
 
 # Hackathons and Conferences 👨‍💻
