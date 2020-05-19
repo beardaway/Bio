@@ -14,9 +14,9 @@ Hi! I'm Konrad and I'm working as a Senior Developer Community Engineer at Auth0
 
 * 🐤 Twitter  [@beardaway](https://twitter.com/beardaway)
 * 📧 Email  konrad.sopala@gmail.com
-* 🐙 GitHub  [beardaway](https://github.com/beardaway)
+* 🐙 GitHub  [beardaway](https://github.com/konradsopala)
 * 👨🏽‍🎓 Linkedin  [Konrad Sopala](www.linkedin.com/in/konradsopala)
-* 💪🏼 Gallup [Strengths](https://github.com/beardaway/github-linkedin/blob/master/GallupInstitute/CliftonStrengthsFinder.md)
+* 💪🏼 Gallup [Strengths](https://github.com/konradsopala/github-linkedin/blob/master/GallupInstitute/CliftonStrengthsFinder.md)
 
 # Jobs History 🧓
 
@@ -69,7 +69,7 @@ List of hackathons I attended, organized or volunteered in and conferences I gav
 
 # Courses 👨‍🏫
 
-Here's a list of courses I've taken. All the certificates can be viewed [here](https://github.com/beardaway/github-linkedin/tree/master/Certificates).
+Here's a list of courses I've taken. All the certificates can be viewed [here](https://github.com/konradsopala/github-linkedin/tree/master/Certificates).
 
 * **Udemy**
     * [Python for Data Science and Machine Learning](https://github.com/beardaway/github-linkedin/blob/master/Certificates/Udemy/PythonDataSciencendMachineLearningBootcampCertificate.pdf)
@@ -88,18 +88,18 @@ Here's a list of courses I've taken. All the certificates can be viewed [here](h
 
 # Presentations 🎤
 
-* [Observable and Actionable Analytics](https://github.com/beardaway/github-linkedin/blob/master/Presentations/ObservableAndActionableAnalytics.pdf) 🇺🇸<br>
-* [FAQathons: your new tool for community forum enhancement](https://github.com/beardaway/github-linkedin/blob/master/Presentations/FAQathons.pdf) 🇺🇸<br>
-* [Running 500 people hackathon - AGHacks case study](https://github.com/beardaway/Bio/blob/master/Presentations/Running500peoplehackathon.pdf) 🇺🇸<br>
-* [Random Thoughts For Developer Product Managers](https://github.com/beardaway/Bio/blob/master/Presentations/RandomThoughtsForDeveloperProductManagers.pdf) 🇺🇸<br>
+* [Observable and Actionable Analytics](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/ObservableAndActionableAnalytics.pdf) 🇺🇸<br>
+* [FAQathons: your new tool for community forum enhancement](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/FAQathons.pdf) 🇺🇸<br>
+* [Running 500 people hackathon - AGHacks case study](https://github.com/konradsopala/Bio/blob/master/Presentations/Running500peoplehackathon.pdf) 🇺🇸<br>
+* [Random Thoughts For Developer Product Managers](https://github.com/konradsopala/Bio/blob/master/Presentations/RandomThoughtsForDeveloperProductManagers.pdf) 🇺🇸<br>
 
 # Lightning Talks 💡
 
-* [Developer Community Dilemma](https://github.com/beardaway/github-linkedin/blob/master/Presentations/DeveloperCommunityDilemma.pdf) 🇺🇸<br>
-* [Engaging with developer communities](https://github.com/beardaway/Bio/blob/master/Presentations/EngagingWithDeveloperCommunity.pdf) 🇺🇸<br>
-* [Running effective IT society at your university](https://github.com/beardaway/Bio/blob/master/Presentations/GitHubCampusExpertsPresentation.pdf) 🇺🇸<br>
-* [Running big hackathons essentials](https://github.com/beardaway/Bio/blob/master/Presentations/RunningBigHackathons.pdf) 🇺🇸<br>
-* [Meetings essential: How to respect each others' time](https://github.com/beardaway/github-linkedin/blob/master/Presentations/MeetingsEssentials.pdf) 🇺🇸<br>
+* [Developer Community Dilemma](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/DeveloperCommunityDilemma.pdf) 🇺🇸<br>
+* [Engaging with developer communities](https://github.com/konradsopala/Bio/blob/master/Presentations/EngagingWithDeveloperCommunity.pdf) 🇺🇸<br>
+* [Running effective IT society at your university](https://github.com/konradsopala/Bio/blob/master/Presentations/GitHubCampusExpertsPresentation.pdf) 🇺🇸<br>
+* [Running big hackathons essentials](https://github.com/konradsopala/Bio/blob/master/Presentations/RunningBigHackathons.pdf) 🇺🇸<br>
+* [Meetings essential: How to respect each others' time](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/MeetingsEssentials.pdf) 🇺🇸<br>
 
 <p align="center">
 <b> Let's meet at some conference, meetup, hackathon or chat online! </b> <br>
