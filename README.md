@@ -91,15 +91,15 @@ Here's a list of courses I've taken. All the certificates can be viewed [here](h
 
 * [Observable and Actionable Analytics](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/ObservableAndActionableAnalytics.pdf) 🇺🇸<br>
 * [FAQathons: your new tool for community forum enhancement](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/FAQathons.pdf) 🇺🇸<br>
-* [Running 500 people hackathon - AGHacks case study](https://github.com/konradsopala/Bio/blob/master/Presentations/Running500peoplehackathon.pdf) 🇺🇸<br>
-* [Random Thoughts For Developer Product Managers](https://github.com/konradsopala/Bio/blob/master/Presentations/RandomThoughtsForDeveloperProductManagers.pdf) 🇺🇸<br>
+* [Running 500 people hackathon - AGHacks case study](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/Running500peoplehackathon.pdf) 🇺🇸<br>
+* [Random Thoughts For Developer Product Managers](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/RandomThoughtsForDeveloperProductManagers.pdf) 🇺🇸<br>
 
 # Lightning Talks 💡
 
 * [Developer Community Dilemma](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/DeveloperCommunityDilemma.pdf) 🇺🇸<br>
-* [Engaging with developer communities](https://github.com/konradsopala/Bio/blob/master/Presentations/EngagingWithDeveloperCommunity.pdf) 🇺🇸<br>
-* [Running effective IT society at your university](https://github.com/konradsopala/Bio/blob/master/Presentations/GitHubCampusExpertsPresentation.pdf) 🇺🇸<br>
-* [Running big hackathons essentials](https://github.com/konradsopala/Bio/blob/master/Presentations/RunningBigHackathons.pdf) 🇺🇸<br>
+* [Engaging with developer communities](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/EngagingWithDeveloperCommunity.pdf) 🇺🇸<br>
+* [Running effective IT society at your university](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/GitHubCampusExpertsPresentation.pdf) 🇺🇸<br>
+* [Running big hackathons essentials](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/RunningBigHackathons.pdf) 🇺🇸<br>
 * [Meetings essential: How to respect each others' time](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/MeetingsEssentials.pdf) 🇺🇸<br>
 
 <p align="center">
