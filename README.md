@@ -72,34 +72,34 @@ Here's a list of courses I've taken. All the certificates can be viewed [here](h
 
 * **Udemy**
    * **Engineering**
-      * [Python for Data Science and Machine Learning](https://github.com/beardaway/github-linkedin/blob/master/Certificates/Udemy/PythonDataSciencendMachineLearningBootcampCertificate.pdf)
-      * [The Complete Python & PostgreSQL Developer Course](udemy.com/course/the-complete-python-postgresql-developer-course/)
-      * [The Complete iOS 10 & Swift 3 Developer Course](udemy.com/course/complete-ios-10-developer-course/)
-      * [Objective-C Crash Course for Swift Developers](udemy.com/course/objectivec/)
-      * [Blockchain and Bitcoin Fundamentals](udemy.com/course/blockchain-and-bitcoin-fundamentals/)
-      * [User Experience Design Fundamentals](udemy.com/course/user-experience-design-fundamentals/)
-      * [Mobile App Design in Sketch](udemy.com/course/the-complete-design-course/)
+      * [Python for Data Science and Machine Learning](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
+      * [The Complete Python & PostgreSQL Developer Course](https://www.udemy.com/course/the-complete-python-postgresql-developer-course/)
+      * [The Complete iOS 10 & Swift 3 Developer Course](https://www.udemy.com/course/learn-full-swift-course-xcode-ios-programming/)
+      * [Objective-C Crash Course for Swift Developers](https://www.udemy.com/course/objectivec/)
+      * [Blockchain and Bitcoin Fundamentals](https://www.udemy.com/course/blockchain-and-bitcoin-fundamentals/)
+      * [User Experience Design Fundamentals](https://www.udemy.com/course/user-experience-design-fundamentals/)
+      * [Mobile App Design in Sketch](https://www.udemy.com/course/the-complete-design-course/)
    * **Research**
-      * [How to Write a Successful Research Paper](udemy.com/course/how-to-write-a-successful-research-paper-academic-writing/)
+      * [How to Write a Successful Research Paper](https://www.udemy.com/course/how-to-write-a-successful-research-paper-academic-writing/)
    * **Management**
       * [Product Marketing Management](https://www.udemy.com/course/product-marketing-for-technology-companies/)
-      * [The Complete Guide to Jira](udemy.com/course/the-complete-guide-to-jira-with-real-world-examples/)
-      * [Mastering Agile Scrum Project Management](udemy.com/course/mastering-agile-scrum-project-management-pmi-rep/)
+      * [The Complete Guide to Jira](https://www.udemy.com/course/the-complete-guide-to-jira-with-real-world-examples/)
+      * [Mastering Agile Scrum Project Management](https://www.udemy.com/course/mastering-agile-scrum-project-management-pmi-rep/)
       * [Ultimate Google Analytics Guide](https://www.udemy.com/course/ultimate-google-analytics-course-50-practical-tips/)
 
 # Presentations 🎤
 
 * [Observable and Actionable Analytics](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/ObservableAndActionableAnalytics.pdf) 🇺🇸<br>
 * [FAQathons: your new tool for community forum enhancement](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/FAQathons.pdf) 🇺🇸<br>
-* [Running 500 people hackathon - AGHacks case study](https://github.com/konradsopala/Bio/blob/master/Presentations/Running500peoplehackathon.pdf) 🇺🇸<br>
-* [Random Thoughts For Developer Product Managers](https://github.com/konradsopala/Bio/blob/master/Presentations/RandomThoughtsForDeveloperProductManagers.pdf) 🇺🇸<br>
+* [Running 500 people hackathon - AGHacks case study](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/Running500peoplehackathon.pdf) 🇺🇸<br>
+* [Random Thoughts For Developer Product Managers](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/RandomThoughtsForDeveloperProductManagers.pdf) 🇺🇸<br>
 
 # Lightning Talks 💡
 
 * [Developer Community Dilemma](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/DeveloperCommunityDilemma.pdf) 🇺🇸<br>
-* [Engaging with developer communities](https://github.com/konradsopala/Bio/blob/master/Presentations/EngagingWithDeveloperCommunity.pdf) 🇺🇸<br>
-* [Running effective IT society at your university](https://github.com/konradsopala/Bio/blob/master/Presentations/GitHubCampusExpertsPresentation.pdf) 🇺🇸<br>
-* [Running big hackathons essentials](https://github.com/konradsopala/Bio/blob/master/Presentations/RunningBigHackathons.pdf) 🇺🇸<br>
+* [Engaging with developer communities](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/EngagingWithDeveloperCommunity.pdf) 🇺🇸<br>
+* [Running effective IT society at your university](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/GitHubCampusExpertsPresentation.pdf) 🇺🇸<br>
+* [Running big hackathons essentials](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/RunningBigHackathons.pdf) 🇺🇸<br>
 * [Meetings essential: How to respect each others' time](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/MeetingsEssentials.pdf) 🇺🇸<br>
 
 <p align="center">
