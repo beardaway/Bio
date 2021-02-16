@@ -72,6 +72,7 @@ Here's a list of courses I've taken. All the certificates can be viewed [here](h
 
 * **Udemy**
    * **Engineering**
+      * [Complete iOS 13 Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp)
       * [Python for Data Science and Machine Learning](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
       * [The Complete Python & PostgreSQL Developer Course](https://www.udemy.com/course/the-complete-python-postgresql-developer-course/)
       * [The Complete iOS 10 & Swift 3 Developer Course](https://www.udemy.com/course/learn-full-swift-course-xcode-ios-programming/)
